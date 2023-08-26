@@ -9,5 +9,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <provider android:name=".Foo1ContentProvider"
+            android:exported="true"
+            android:authorities="test.android.foo1.ContentProvider"/>
     </application>
 </manifest>

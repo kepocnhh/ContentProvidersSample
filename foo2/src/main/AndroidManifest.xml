@@ -10,4 +10,7 @@
             </intent-filter>
         </activity>
     </application>
+    <queries>
+        <provider android:authorities="test.android.foo1.ContentProvider" />
+    </queries>
 </manifest>
