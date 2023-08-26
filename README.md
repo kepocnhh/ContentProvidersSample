@@ -1,0 +1,2 @@
+# ContentProvidersSample
+Content providers sample.
