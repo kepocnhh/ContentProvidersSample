@@ -1,6 +1,7 @@
 /*
 !/buildSrc
 !/foo1
+!/foo2
 !.gitignore
 !build.gradle.kts
 !gradle.properties
